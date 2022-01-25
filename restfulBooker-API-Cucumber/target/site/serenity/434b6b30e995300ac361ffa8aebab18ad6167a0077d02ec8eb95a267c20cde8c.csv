@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing the CRUD operations on booking app","User can create booking with valid data","SUCCESS","2022-01-25T23:46:19.924Z[Europe/London]","0.0","4.74"
+"Testing the CRUD operations on booking app","User Should verify newly created booking by getting data by Id","SUCCESS","2022-01-25T23:46:25.862Z[Europe/London]","0.0","0.46"
