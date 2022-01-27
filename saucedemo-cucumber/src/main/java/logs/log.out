@@ -1,0 +1,15 @@
+
+2022-01-27 00:01:63 INFO  HomePage :35 - Enter User name :standard_user
+2022-01-27 00:01:154 INFO  HomePage :39 - Enter Password :secret_sauce
+2022-01-27 00:01:313 INFO  HomePage :43 - Click on Login Tab :[[ChromeDriver: chrome on WINDOWS (850dba7312802ab354a3aa003e6fb0a4)] -> xpath: //input[@id='login-button']]
+2022-01-27 00:01:553 INFO  InventoryPage :33 - Sorting the products by prices: Price (high to low)
+2022-01-27 00:01:634 INFO  InventoryPage :41 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (850dba7312802ab354a3aa003e6fb0a4)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-27 00:01:699 INFO  InventoryPage :41 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (850dba7312802ab354a3aa003e6fb0a4)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-27 00:01:729 INFO  InventoryPage :47 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (850dba7312802ab354a3aa003e6fb0a4)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-27 00:01:847 INFO  CartPage :25 - Clicking on the check-out butoon: CHECKOUT
+2022-01-27 00:01:58 INFO  CheckOutInformationPage :37 - Entering first name: Prime
+2022-01-27 00:01:184 INFO  CheckOutInformationPage :39 - Entering last name: Trainee
+2022-01-27 00:01:299 INFO  CheckOutInformationPage :41 - Entering Zip information: HA9 7PU
+2022-01-27 00:01:325 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (850dba7312802ab354a3aa003e6fb0a4)] -> xpath: //input[@id='continue']]
+2022-01-27 00:01:460 INFO  CheckOutOverViewPage :25 - Clicking on finish button: FINISH
+2022-01-27 00:01:568 INFO  CheckOutCompletePage :26 - Verifying the message: THANK YOU FOR YOUR ORDER

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HomeWork-Week21.iml" filepath="$PROJECT_DIR$/.idea/HomeWork-Week21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestBuy-API-Cucumber/best-buy-api-wk19.iml" filepath="$PROJECT_DIR$/bestBuy-API-Cucumber/best-buy-api-wk19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restfulBooker-API-Cucumber/restfullbooker-cucumber.iml" filepath="$PROJECT_DIR$/restfulBooker-API-Cucumber/restfullbooker-cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentApp-API-Cucumber/student-app-serenity.iml" filepath="$PROJECT_DIR$/studentApp-API-Cucumber/student-app-serenity.iml" />
+    </modules>
+  </component>
+</project>
